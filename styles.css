@@ -1,0 +1,91 @@
+.cone {
+    border: 3px solid gold;
+    background-color: yellow;
+    margin: 10px;
+    justify-content: flex-start;
+}
+
+.yard {
+    border: 3px solid darkblue;
+    background-color: blue;
+    margin: 10px;
+}
+
+body {
+    display: flex;
+}
+
+h2 {
+    color: red;
+}
+
+h1 {
+    color: green;
+    font-size: 60px;
+}
+
+body {
+    background-color: cyan;
+}
+
+p {
+    font-family: 'Lilita One', cursive;
+}
+
+button {
+    color: red;
+    background-color: orange;
+    border-color: darkorange;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
+}
+
+.outside {
+    justify-content: center;
+    display: flex;
+}
+
+button:hover {
+    color: orange;
+    background-color: yellow;
+    border-color: gold;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.gabriel7 {
+    width: 250px;
+}
+
+.html {
+    width: 400px;
+}
+
+.ending {
+    width: 233px;
+    display: flex;
+    justify-content: center;
+}
+
+.beginning {
+    width: 150px;
+    display: flex;
+    justify-content: center;
+}
+.goodbye {
+    text-align: center;
+}
+.parentthought {
+display: flex;
+}
+.giphy {
+ width: 200px;
+ height: 200px;
+ margin-top: 10px;
+}   
+.changes {
+    margin-top: -25px;
+}
