@@ -1,1 +1,0 @@
-# The-Votecom-Presidential-Campaign
